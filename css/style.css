@@ -6,8 +6,14 @@
 
 @media (max-width:500px) {
     .sabores {
-        flex-direction: row;
+        flex-direction: column;
         margin: 10px;
+        width: 90%;
+    }
+    
+    .sabores2 {
+        width: 90%;
+        margin: 0 auto;
     }
 
     .sabor {
